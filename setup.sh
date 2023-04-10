@@ -2,6 +2,6 @@
 
 kaggle competitions download -c competitive-data-science-predict-future-sales
 
-unzip competitive-data-science-predict-future-sales
+unzip competitive-data-science-predict-future-sales.zip -d data/
 
-mv competitive-data-science-predict-future-sales data
+rm competitive-data-science-predict-future-sales.zip
